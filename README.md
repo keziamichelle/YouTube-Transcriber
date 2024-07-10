@@ -1,6 +1,6 @@
 *YouTube Transcriber*
 
-This project is a YouTube Transcriber that generates transcript text from a YouTube video and creates a summary of all the important points. It uses Streamlit for the web interface, Google Generative AI for content generation, and the YouTube Transcript API for fetching transcripts.
+This project is a YouTube Transcriber that takes your video content analysis to the next level. By automatically generating transcripts and summarizing key points, it provides a seamless way to understand and share the essence of any YouTube video.
 
 *Features*
 
