@@ -5,11 +5,17 @@ This project is a YouTube Transcriber that generates transcript text from a YouT
 Features
 
 -Extracts transcripts from YouTube videos.
+
 -Generates a summary of the transcript.
+
 -Displays the video thumbnail.
 
 Technologies Used
+
 -Streamlit
+
 -Google Generative AI
+
 -YouTube Transcript API
+
 -dotenv
