@@ -10,7 +10,7 @@ This project is a YouTube Transcriber that takes your video content analysis to 
 
 -Displays the video thumbnail.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit
 
@@ -18,4 +18,3 @@ This project is a YouTube Transcriber that takes your video content analysis to 
 
 -YouTube Transcript API
 
--dotenv
